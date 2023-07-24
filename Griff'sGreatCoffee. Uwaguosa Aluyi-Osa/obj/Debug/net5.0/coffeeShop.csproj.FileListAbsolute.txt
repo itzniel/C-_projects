@@ -1,0 +1,16 @@
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.exe
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.deps.json
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.runtimeconfig.json
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.runtimeconfig.dev.json
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.dll
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\bin\Debug\net5.0\coffeeShop.pdb
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.csproj.AssemblyReference.cache
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.AssemblyInfoInputs.cache
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.AssemblyInfo.cs
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.csproj.CoreCompileInputs.cache
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.dll
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\refint\coffeeShop.dll
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.pdb
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\coffeeShop.genruntimeconfig.cache
+C:\Users\nielz\Documents\School work\WEB101\coffeeShop\obj\Debug\net5.0\ref\coffeeShop.dll
